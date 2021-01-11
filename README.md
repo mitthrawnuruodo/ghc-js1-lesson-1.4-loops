@@ -3,14 +3,14 @@
 ## Exercise 1
 a) Make a `for` loop counting from 0 through 10 (including the 10). Console log out the numbers.
 
-b) Make a `for` loop counting from 6 throughto 11 (including the 11). Console log out the numbers.
+b) Make a `for` loop counting from 6 through 11 (including the 11). Console log out the numbers.
 
 c) Make a `for` loop counting from 10 through 1 (including the 1). Console log out the numbers.
 
 ## Exercise 2
 a) Make a `while` loop counting from 0 through 10 (including the 10). Console log out the numbers.
 
-b) Make a `while` loop counting from 6 throughto 11 (including the 11). Console log out the numbers.
+b) Make a `while` loop counting from 6 through 11 (including the 11). Console log out the numbers.
 
 c) Make a `while` loop counting from 10 through 1 (including the 1). Console log out the numbers.
 
