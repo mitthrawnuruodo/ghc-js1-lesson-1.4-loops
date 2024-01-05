@@ -1,4 +1,4 @@
-# Exercises for Programming Foundations Lesson 4
+# Exercises for JavaScript 1 Lesson 1.4
 
 ## Exercise 1
 a) Make a `for` loop counting from 0 through 10 (including the 10). Console log out the numbers.
